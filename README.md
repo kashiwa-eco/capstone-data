@@ -8,6 +8,7 @@ Usage with citation is allowed.
 There are 2 files:
  - supplementary_data.xlsx
  - supplementary_data.csv
+   
 The description of variables are included in the first file.
 
 
